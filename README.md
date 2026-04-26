@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladimir Bystrov
 
-<!--
-**vlad-sidius/vlad-sidius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior JVM Engineer** | Scala • Kotlin • Java • Go
 
-Here are some ideas to get you started:
+📍 Minsk, Belarus | Remote-friendly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📢 Account Migration
+This is my **new GitHub account** (previously: [@vlad-bystrov](https://github.com/vlad-bystrov)). 
+All projects have been migrated. Some commits may show different author names due to migration.
+
+## 💼 Professional Experience
+- **13+ years** in backend development
+- **Specialization**: Scalable JVM systems (Scala/Java/Kotlin)
+- **Current focus**: Event-driven microservices, Functional Programming, Cloud-native architectures
+
+## 🔥 Featured Projects
+- 📊 [Scala Microservices Demo](#) - Event-driven architecture with ZIO (coming soon)
+- ⚡ [Java 21 Virtual Threads](#) - High-performance Spring Boot (coming soon)
+- 🔗 [Go URL Shortener](go-url-shortener) - High-concurrency service
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vlad-sidius&show_icons=true&theme=radical)
+
+## 🔗 Connect
+- [Habr Career](https://career.habr.com/udav_pit)
+- [LinkedIn](https://linkedin.com/in/vladimirbystrov)
+- Email: vlad.bystrov@gmail.com
