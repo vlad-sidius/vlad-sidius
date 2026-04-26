@@ -9,13 +9,13 @@ This is my **new GitHub account** (previously: [@vlad-bystrov](https://github.co
 All projects have been migrated. Some commits may show different author names due to migration.
 
 ## 💼 Professional Experience
-- **13+ years** in backend development
+- **20+ years** in backend development
 - **Specialization**: Scalable JVM systems (Scala/Java/Kotlin)
 - **Current focus**: Event-driven microservices, Functional Programming, Cloud-native architectures
 
 ## 🔥 Featured Projects
 - 📊 [Scala Microservices Demo](#) - Event-driven architecture with ZIO (coming soon)
-- ⚡ [Java 21 Virtual Threads](#) - High-performance Spring Boot (coming soon)
+- ⚡ [Java 25 Virtual Threads](#) - High-performance Spring Boot (coming soon)
 - 🔗 [Go URL Shortener](go-url-shortener) - High-concurrency service
 
 ## 📊 Stats
