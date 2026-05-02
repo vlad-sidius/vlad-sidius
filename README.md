@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladimir Bystrov
 
-**Senior JVM Engineer** | Scala • Kotlin • Java • Go
+**Senior Backend Engineer** | Scala • Kotlin • Java • Go
 
 📍 Minsk, Belarus | Remote-friendly
 
@@ -10,7 +10,7 @@ All projects have been migrated. Some commits may show different author names du
 
 ## 💼 Professional Experience
 - **20+ years** in backend development
-- **Specialization**: Scalable JVM systems (Scala/Java/Kotlin)
+- **Specialization**: Scalable systems (Scala/Java/Kotlin/Go)
 - **Current focus**: Event-driven microservices, Functional Programming, Cloud-native architectures
 
 ## 🔥 Featured Projects
