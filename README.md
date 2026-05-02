@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer** | Scala • Kotlin • Java • Go
 
-📍 Minsk, Belarus | Remote-friendly
+📍 Remote (EU/MEA timezone) • Open to relocation
 
 ## Account Migration
 This is my **new GitHub account** (previously: [@vlad-bystrov](https://github.com/vlad-bystrov)). 
