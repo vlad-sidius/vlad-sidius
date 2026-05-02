@@ -1,36 +1,41 @@
-# Hi, I'm Vladimir Bystrov
+# 👋 Hi, I'm Vladimir Bystrov  
+**Senior Backend Engineer** | 20+ years building scalable, high-performance systems  
 
-**Senior Backend Engineer** | Scala • Kotlin • Java • Go
+📍 Remote (EU/MEA) • Open to Senior/Staff Backend Roles  
 
-📍 Remote (EU/MEA timezone) • Open to relocation
+I design and ship production-grade backend services across the JVM ecosystem (Java, Kotlin, Scala) and Go. Focused on clean architecture, concurrency patterns, and reliability. Comfortable bridging into frontend when needed (ReactJS), but my core value is in robust server-side systems, CLI tools, and distributed architectures.
 
-## Account Migration
-This is my **new GitHub account** (previously: [@vlad-bystrov](https://github.com/vlad-bystrov)). 
-All projects have been migrated. Some commits may show different author names due to migration.
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-17%2F21%2F25-blue?logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-3-red?logo=scala&logoColor=white)
+![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white)
+![ZIO](https://img.shields.io/badge/ZIO-2.x-E85D75?logo=scala&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 
-## Professional Experience
-- **20+ years** in backend development
-- **Specialization**: Scalable systems (Scala/Java/Kotlin/Go)
-- **Current focus**: Event-driven microservices, Functional Programming, Cloud-native architectures
+## 🔥 Featured Projects
+| Project | Stack | Status | Focus |
+|---------|-------|--------|-------|
+| [go-url-shortener](https://github.com/vlad-sidius/go-url-shortener) | Go, Redis, Docker | `✅ Production-Ready` | High-concurrency service, clean architecture |
+| [scala3-seed.g8](https://github.com/vlad-sidius/scala3-seed.g8) | Scala 3, sbt, ZIO | `📦 Template` | FP-first microservice starter with modern tooling |
+| [java-simple-archetype](https://github.com/vlad-sidius/java-simple-archetype) | Java, Maven, Spring | `🏗 Boilerplate` | Lightweight enterprise Java foundation |
+| [algo-problems-java](https://github.com/vlad-sidius/algo-problems-java) | Java 21+ | `🌱 Active` | DSA practice with modern Java features & benchmarks |
 
-## Tech Stack
-![Java](https://img.shields.io/badge/Java-25-blue?logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.3-purple?logo=kotlin)
-![Scala](https://img.shields.io/badge/Scala-3-red?logo=scala)
-![Go](https://img.shields.io/badge/Go-1.22-blue?logo=go)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-4-green?logo=springboot)
-![React](https://img.shields.io/badge/React-19-blue?logo=react)
+## 💼 Background
+- **20+ years** in software engineering, with deep specialization in backend systems
+- **5+ years** optimizing Scala applications for performance, reliability, and maintainability
+- **2+ years** building server-side services and CLI tools in Go
+- Proven track record of delivering high-quality, client-focused solutions across distributed teams
 
-## Featured Projects
-- 📊 [Scala Microservices Demo](#) - Event-driven architecture with ZIO (coming soon)
-- ⚡ [Java 25 Virtual Threads](#) - High-performance Spring Boot (coming soon)
-- 🔗 [Go URL Shortener](go-url-shortener) - High-concurrency service
+## 🌱 Currently
+- Exploring Structured Concurrency & Virtual Threads in Java 25
+- Benchmarking Go vs JVM latency patterns for high-throughput APIs
+- Refining ZIO-based error handling strategies for distributed systems
 
-## Activity
-![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlad-sidius&show_icons=true&theme=github_dark&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad-sidius&layout=compact&theme=github_dark)
+> 💡 *Note: Most production work lives in private enterprise repos. This GitHub showcases architectural experiments, templates, and ongoing learning.*
 
-## Connect
-- [Habr Career](https://career.habr.com/udav_pit)
-- [LinkedIn](https://linkedin.com/in/vladimirbystrov)
-- Email: vlad.bystrov@gmail.com
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimirbystrov)
+[![Email](https://img.shields.io/badge/Email-vlad.bystrov@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vlad.bystrov@gmail.com)
+[![Habr Career](https://img.shields.io/badge/Habr_Career-Profile-FF6600?logo=habr&logoColor=white)](https://career.habr.com/vladimirbystrov)
