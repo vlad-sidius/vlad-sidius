@@ -17,10 +17,10 @@ I design and ship production-grade backend services across the JVM ecosystem (Ja
 ## 🔥 Featured Projects
 | Project | Stack | Status | Focus |
 |---------|-------|--------|-------|
-| [go-url-shortener](https://github.com/vlad-sidius/go-url-shortener) | Go, Redis, Docker | `✅ Production-Ready` | High-concurrency service, clean architecture |
-| [scala3-seed.g8](https://github.com/vlad-sidius/scala3-seed.g8) | Scala 3, sbt, ZIO | `📦 Template` | FP-first microservice starter with modern tooling |
-| [java-simple-archetype](https://github.com/vlad-sidius/java-simple-archetype) | Java, Maven, Spring | `🏗 Boilerplate` | Lightweight enterprise Java foundation |
-| [algo-problems-java](https://github.com/vlad-sidius/algo-problems-java) | Java 21+ | `🌱 Active` | DSA practice with modern Java features & benchmarks |
+| [go-url-shortener](https://github.com/vlad-sidius/go-url-shortener) | Go, Gin | `✅ Production-Ready` | High-concurrency service, clean architecture |
+| [scala3-seed.g8](https://github.com/vlad-sidius/scala3-seed.g8) | Scala 3. sbt | `📦 Template` | FP-first microservice starter with modern tooling |
+| [java-simple-archetype](https://github.com/vlad-sidius/java-simple-archetype) | Java, Maven | `🏗 Boilerplate` | Lightweight core Java foundation |
+| [algo-problems-java](https://github.com/vlad-sidius/algo-problems-java) | Java 25 | `🌱 Active` | DSA practice with modern Java features & benchmarks |
 
 ## 💼 Background
 - **20+ years** in software engineering, with deep specialization in backend systems
