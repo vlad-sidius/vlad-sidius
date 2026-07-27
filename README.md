@@ -6,13 +6,7 @@
 I design and ship production-grade backend services across the JVM ecosystem (Java, Kotlin, Scala) and Go. Focused on clean architecture, concurrency patterns, and reliability. Comfortable bridging into frontend when needed (ReactJS), but my core value is in robust server-side systems, CLI tools, and distributed architectures.
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-17%2F21%2F25-blue?logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-3-red?logo=scala&logoColor=white)
-![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white)
-![ZIO](https://img.shields.io/badge/ZIO-2.x-E85D75?logo=scala&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17%2F21%2F25-blue?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin&logoColor=white) ![Scala](https://img.shields.io/badge/Scala-3-red?logo=scala&logoColor=white) ![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white) ![ZIO](https://img.shields.io/badge/ZIO-2.x-E85D75?logo=scala&logoColor=white) ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 
 ## 🔥 Featured Projects
 | Project | Stack | Status | Focus |
@@ -20,7 +14,6 @@ I design and ship production-grade backend services across the JVM ecosystem (Ja
 | [go-url-shortener](https://github.com/vlad-sidius/go-url-shortener) | Go, Gin | `✅ Production-Ready` | High-concurrency service, clean architecture |
 | [scala3-seed.g8](https://github.com/vlad-sidius/scala3-seed.g8) | Scala 3. sbt | `📦 Template` | FP-first microservice starter with modern tooling |
 | [java-simple-archetype](https://github.com/vlad-sidius/java-simple-archetype) | Java, Maven | `🏗 Boilerplate` | Lightweight core Java foundation |
-| [algo-problems-java](https://github.com/vlad-sidius/algo-problems-java) | Java 25 | `🌱 Active` | DSA practice with modern Java features & benchmarks |
 
 ## 💼 Background
 - **20+ years** in software engineering, with deep specialization in backend systems
@@ -29,7 +22,6 @@ I design and ship production-grade backend services across the JVM ecosystem (Ja
 - Proven track record of delivering high-quality, client-focused solutions across distributed teams
 
 ## 🌱 Currently
-- Exploring Structured Concurrency & Virtual Threads in Java 25
 - Benchmarking Go vs JVM latency patterns for high-throughput APIs
 - Refining ZIO-based error handling strategies for distributed systems
 
